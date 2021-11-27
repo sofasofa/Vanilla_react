@@ -3,9 +3,6 @@
         "rewrite": "/index.html"
     }
     "networking": {
-  "allowedIpRanges": [
-     "10.1.1.0/24",
-     "GatewayManager"
-    ]
+  "allowedIpRanges": ["10.1.1.0/24"]
 }
 }
