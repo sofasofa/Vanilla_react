@@ -3,6 +3,8 @@
         "rewrite": "/index.html"
     },
      "networking": {
-        "allowedIpRanges": ["GatewayManager"]
+        "allowedIpRanges": ["GatewayManager.Backend",
+                            "GatewayManager.Frontend"
+                          ]
 }
 }
