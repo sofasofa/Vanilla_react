@@ -5,7 +5,7 @@
      "networking": {
         "allowedIpRanges": [
           "10.1.1.0/24",
-		      "appgw-myway.northeurope.cloudapp.azure.com"
+		     "20.123.21.154/32"
                           ]
 }
 }
